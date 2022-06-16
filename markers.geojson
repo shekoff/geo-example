@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "lon": 10.8494, "lat": 50.90028, "name": "address 1" }, "geometry": { "type": "Point", "coordinates": [ 10.8494, 50.90028 ] } },
+{ "type": "Feature", "properties": { "lon": 10.8494, "lat": 50.90023, "name": "address 2" }, "geometry": { "type": "Point", "coordinates": [ 10.8494, 50.90023 ] } },
+{ "type": "Feature", "properties": { "lon": 10.85422, "lat": 50.90116, "name": "address 3" }, "geometry": { "type": "Point", "coordinates": [ 10.85422, 50.90116 ] } }
+]
+}
